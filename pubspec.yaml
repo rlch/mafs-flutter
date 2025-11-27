@@ -3,9 +3,9 @@ description: >
   A Flutter library for creating interactive math visualizations.
   Port of the React Mafs library with pan/zoom, plots, shapes, and more.
 version: 0.0.1
-homepage: https://github.com/example/mafs-flutter
-repository: https://github.com/example/mafs-flutter
-issue_tracker: https://github.com/example/mafs-flutter/issues
+homepage: https://github.com/rlch/mafs-flutter
+repository: https://github.com/rlch/mafs-flutter
+issue_tracker: https://github.com/rlch/mafs-flutter/issues
 
 environment:
   sdk: ^3.9.2

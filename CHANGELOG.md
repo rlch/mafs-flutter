@@ -65,4 +65,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 This is the initial release of mafs_flutter, a Flutter port of the React [Mafs](https://mafs.dev) library by Steven Petryk.
 
-[0.0.1]: https://github.com/example/mafs-flutter/releases/tag/v0.0.1
+[0.0.1]: https://github.com/rlch/mafs-flutter/releases/tag/v0.0.1
